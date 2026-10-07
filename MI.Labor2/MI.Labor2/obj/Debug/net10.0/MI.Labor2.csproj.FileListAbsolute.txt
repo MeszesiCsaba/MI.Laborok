@@ -1,0 +1,15 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\bin\Debug\net10.0\MI.Labor2.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\bin\Debug\net10.0\MI.Labor2.deps.json
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\bin\Debug\net10.0\MI.Labor2.runtimeconfig.json
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\bin\Debug\net10.0\MI.Labor2.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\bin\Debug\net10.0\MI.Labor2.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.AssemblyInfoInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.AssemblyInfo.cs
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\refint\MI.Labor2.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.genruntimeconfig.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\ref\MI.Labor2.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MI.Labor2\MI.Labor2\obj\Debug\net10.0\MI.Labor2.csproj.Up2Date
