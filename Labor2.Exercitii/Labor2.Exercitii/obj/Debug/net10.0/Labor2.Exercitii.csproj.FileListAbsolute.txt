@@ -1,0 +1,15 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\bin\Debug\net10.0\Labor2.Exercitii.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\bin\Debug\net10.0\Labor2.Exercitii.deps.json
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\bin\Debug\net10.0\Labor2.Exercitii.runtimeconfig.json
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\bin\Debug\net10.0\Labor2.Exercitii.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\bin\Debug\net10.0\Labor2.Exercitii.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.AssemblyInfoInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.AssemblyInfo.cs
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\refint\Labor2.Exercitii.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.Exercitii.genruntimeconfig.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\ref\Labor2.Exercitii.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.Exercitii\Labor2.Exercitii\obj\Debug\net10.0\Labor2.E.C3F67BD1.Up2Date
