@@ -1,0 +1,10 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.csproj.AssemblyReference.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.Form1.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.Properties.Resources.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.csproj.GenerateResource.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\bin\Debug\Labor2.cerinte.exe.config
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\bin\Debug\Labor2.cerinte.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\bin\Debug\Labor2.cerinte.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor2.cerinte\Labor2.cerinte\obj\Debug\Labor2.cerinte.pdb
