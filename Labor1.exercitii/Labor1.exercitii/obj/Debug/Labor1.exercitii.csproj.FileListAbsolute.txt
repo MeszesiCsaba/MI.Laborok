@@ -1,0 +1,10 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\bin\Debug\Labor1.exercitii.exe.config
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\bin\Debug\Labor1.exercitii.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\bin\Debug\Labor1.exercitii.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.csproj.AssemblyReference.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.Form1.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.Properties.Resources.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.csproj.GenerateResource.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor1.exercitii\Labor1.exercitii\obj\Debug\Labor1.exercitii.pdb
