@@ -1,0 +1,10 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\bin\Debug\Labor3.exe.config
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\bin\Debug\Labor3.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\bin\Debug\Labor3.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.csproj.AssemblyReference.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.Form1.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.Properties.Resources.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.csproj.GenerateResource.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\Labor3\Labor3\obj\Debug\Labor3.pdb
